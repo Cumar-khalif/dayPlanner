@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-url: https://
+url: https://https://cumar-khalif.github.io/dayPlanner/
 
 # Description
 This is a day planner that helps me utilize the work hours of the day.
